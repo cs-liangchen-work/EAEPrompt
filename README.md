@@ -1,5 +1,6 @@
 # EAEPrompt
-code for paper "Event Argument Extraction with Enriched Prompts"
+
+## code for paper "Event Argument Extraction with Enriched Prompts"
 
 
 运行代码（同RAMS原始数据集建议评估方式）：
