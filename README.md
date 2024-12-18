@@ -10,3 +10,5 @@ nohup python3 -u code_1.py --gold_file dev.jsonlines --pred_file 1.json --ontolo
 ```
 
 ### 2.代码说明
+
+- role-prompt:
